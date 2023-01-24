@@ -1,2 +1,2 @@
-# ebac-frontend-mod2Ex
- repositório criado para o exercício do módulo 2 do curso de Front-End
+# ebac
+Exercício criado para o módulo 09
